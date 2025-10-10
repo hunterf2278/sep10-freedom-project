@@ -10,7 +10,7 @@ Some of my sources are...
 
 ## Engineering Design Process: 
 
-I am currently in the first stage of this engineering design process, the first part was to choose a topic that we are most passionate about. Then we have to identify a problem, my problem is that people are uneducated or have limited knowledge about the different types of technology, that no one has discovered yet, that could help or improve a person's writing. The second stage of this process is too research  
+I am currently in the first stage of this engineering design process, the first part was to choose a topic that we are most passionate about. Then we have to identify a problem, my problem is that people are uneducated or have limited knowledge about the different types of technology, that no one has discovered yet, that could improve a person's writing. The second stage of this process is to use websites and articles to help me research technology that we alreayd have, and tehcnology that could invented to help a young inspired writer. I will also make sure to get feedback from my peers so that I can get a new perspective on the sitiuation, which will help me further refine my research and my overall project. 
 
 
 [Next](entry02.md)
