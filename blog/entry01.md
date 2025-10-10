@@ -8,7 +8,7 @@ The topic that I chose for this project is writing because I have always loved a
 Some of my sources are...
 
 
-##Engineering Design Process: 
+## Engineering Design Process: 
 
 I am currently in the first stage of this engineering design process, the first part was to choose a topic that we are most passionate about. Then we have to identify a problem, my problem is that people are uneducated or have limited knowledge about the different types of technology, that no one has discovered yet, that could help or improve a person's writing. The second stage of this process is too research  
 
