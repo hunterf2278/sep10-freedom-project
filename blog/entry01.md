@@ -11,7 +11,7 @@ There are a couple of websites and articles I am going to use to give me an idea
 
 ## Engineering Design Process: 
 
-I am currently in the first and the second stage of this engineering design process, the first part was to choose a topic that we are most passionate about. Then we have to identify a problem, the problem that I want to solve is that **there are so many possibilties of unexplored technology which could help improve a person's writing**. The second stage of this process is to use websites and articles to help me research technology that we already have, and tehcnology that could be invented to help a young inspired writer. I will also make sure to get feedback from my peers so that I can get a new perspective on the sitiuation, which will help me further refine my research and my overall project. 
+I am currently in the first and the second stage of this engineering design process, the first part was to choose a topic that we are most passionate about. Then we have to identify a problem, the problem that I want to solve is that **there are so many possibilties of unexplored technology that could help improve a person's writing**. The second stage of this process is to use websites and articles to help me research technology that we already have, and tehcnology that could be invented to help a young inspired writer. I will also make sure to get feedback from my peers so that I can get a new perspective on the sitiuation, which will help me further refine my research and my overall project. 
 
 
 ## Skills: 
