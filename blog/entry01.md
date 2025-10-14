@@ -24,6 +24,9 @@ When I was in the first stage of the engineering design process, I had mixed tho
 #### Time Management:
 Another important skill I developed is time management. Over the past week,I had multiple projects and tests to complete and study for, including this blog entry, and it was all very exhausting. I knew it wouldn't be efficient to try to finish everything in one day, so I decided to manage my time wisely and work on a small part of each assignment every day. For example, with my blog entry, on Wednesday I completed the content, on Thursday I worked on the engineering design process part, on Friday I took a break, on Saturday I finished the sources and finally on Sunday I finished the skills section. This allowed me to stay organized, not stress or worry, and still have time to do other important things.
 
+## Summary:
+In summary,  I am estatic to continue my research so I can develop a website and introduce to the world, new writing technology.
+
 [Next](entry02.md)
-In summary, I am estatic to continue my research so I can develop a website about different and new writing technology.
+
 [Home](../README.md)
