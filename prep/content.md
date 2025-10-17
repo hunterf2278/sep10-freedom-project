@@ -20,7 +20,8 @@ Topic: **X**
     
  * 2nd google search: Writing programs
    * 2nd website: (https://hugohouse.org/)
-     * 
+     * Its a non-proft literary arts organization
+     * You can take classes that last three-hour writing sessions, and each class hcan incude one or more of these formats, workshops(students submit work for critique from the teacher and class), craft discussions(students submit work for critique from the teacher and class), Reading and generative writing. 
   
     
 ## Part B: possible future technology
