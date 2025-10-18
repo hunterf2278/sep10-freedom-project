@@ -26,7 +26,10 @@ Topic: **X**
      * Youth programs: Young writers cohort and Scribes Summer Camp.
     
  * 3rd google search: What is some software that people in writing use?
-  
+  *  3rd website: (https://www.writtenwordmedia.com/best-writing-software-seven-writing-tools-for-authors/)
+     *  This website is about the different software or apps that people can use durinf different stages of their writing
+     *  IT also gives you a summary about what each app does.
+     *  It also has te different staes of writing. For instne, Pre-Writing Tools, Writing Tools, and lastly "Post-Writing Tools.
     
 ## Part B: possible future technology
 * Idea
