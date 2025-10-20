@@ -22,14 +22,18 @@ Topic: **X**
    * 2nd website: (https://hugohouse.org/)
      * Its a non-proft literary arts organization
      * You can take classes that last three-hour writing sessions
-     * Each class can incude one or more of these formats, workshops(students submit work for critique from the teacher and class), craft discussions(students submit work for critique from the teacher and class), Reading(class engages in close study of one or more works), and generative writing(students create new work during class or from assignments).
+     * #### Each class can incude one or more of these formats:
+     *  workshops(students submit work for critique from the teacher and class),
+     *  craft discussions(students submit work for critique from the teacher and class),
+     *   Reading(class engages in close study of one or more works)
+     *  generative writing(students create new work during class or from assignments).
      * Youth programs: Young writers cohort and Scribes Summer Camp.
     
  * 3rd google search: What is some software that people in writing use?
   *  3rd website: (https://www.writtenwordmedia.com/best-writing-software-seven-writing-tools-for-authors/)
-     *  This website is about the different software or apps that people can use durinf different stages of their writing
-     *  IT also gives you a summary about what each app does.
-     *  It also has te different staes of writing. For instne, Pre-Writing Tools, Writing Tools, and lastly "Post-Writing Tools.
+     *  This website is about the different software or apps that people can use during the different stages of their writing
+     *  It also gives you a summary about what each app does.
+     *  It also has thee different states of writing. For instance, Pre-Writing Tools, Writing Tools, and lastly "Post-Writing Tools.
     
 ## Part B: possible future technology
 * Idea
