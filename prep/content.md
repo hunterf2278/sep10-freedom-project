@@ -18,7 +18,7 @@ Topic: **X**
      * It helps your track your progress and set goals for your writing.
      * In addition it has tools for publishing your writing and exporting it.
      * You can add dates, checkbozes, and lists  in order to keep track of important issues, such as writing a section for a report.
-     * On this website, there is easier formatting. For instance, you can have headings, titles, fonts,etc which can help you organize your writing and remember other special information. 
+     * On this website, there is easier formatting. For instance, you can have headings, titles, fonts, etc, which can help you organize your writing and remember other special information. 
     
  * 2nd google search: Writing programs
    * 2nd website: (https://hugohouse.org/)
