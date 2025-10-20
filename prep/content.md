@@ -17,8 +17,8 @@ Topic: **X**
      * This website can help you edit and organize your work better, it can either restruct all your paragraphs to make them shorter and simpler, or it can just make simple corrections.
      * It helps your track your progress and set goals for your writing.
      * In addition it has tools for publishing your writing and exporting it.
-     * You can add dates, checkbozes, and lists  in order to keep track of important issues, such as writing a section for a report.
-     * On this website, there is easier formatting. For instance, you can have headings, titles, fonts, etc, which can help you organize your writing and remember other special information.
+     * You can add dates, checkboxes, and lists  in order to keep track of important issues, such as writing a section for a report.
+     * On this website, there is easier formatting. For instance, you can have headings, titles, fonts, etc, which can help you organize your writing and remember important information.
      * There is a feature on this app that tracks how often you use certain words, this helps you make sure that you aren´t reusing words too much and if so, you can make substitutes. 
     
  * 2nd google search: Writing programs
