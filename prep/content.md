@@ -23,13 +23,14 @@ Topic: **X**
     
  * 2nd google search: Writing programs
    * 2nd website: (https://hugohouse.org/)
-     * You can take classes in this program, that are three-hour writing sessions
+     * There are events where Pulitzer Prize winners, community favorites, and poet laureate´s attend for readingś or discussions.
+     * You can take classes in this program, that are three-hour long writing sessions.
      * #### Each class can incude one or more of these formats:
      *  Workshops(students submit work for critique from the teacher and class,
      *  Craft discussions(students submit work for critique from the teacher and class),
      *  Reading(class engages in close study of one or more works)
      *  Generative writing(students create new work during class or from assignments).
-     * Youth programs: Young writers cohort and Scribes Summer Camp.
+     * Youth programs: Young Writers Cohort and Scribes Summer Camp.
     
  * 3rd google search: What is some software that people in writing use?
   *  3rd website: (https://www.writtenwordmedia.com/best-writing-software-seven-writing-tools-for-authors/)
