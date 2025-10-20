@@ -17,6 +17,8 @@ Topic: **X**
      * This website can help you edit and organize your work better, it can either restruct all your paragraphs to make them shorter and simpler, or it can just make simple corrections.
      * it helps your track your progress and set goals for your writing.
      * In addition it has tools for publishing your writing and exporting it.
+     * You can add dates, checkbozes, and lists  in orderot keep track of imporant issues, such as writing a section for a report.
+     * On this website, there is easier formatting. For instance, you can have headings, titles, fonts,etc. 
     
  * 2nd google search: Writing programs
    * 2nd website: (https://hugohouse.org/)
@@ -33,7 +35,18 @@ Topic: **X**
   *  3rd website: (https://www.writtenwordmedia.com/best-writing-software-seven-writing-tools-for-authors/)
      *  This website is about the different software or apps that people can use during the different stages of their writing
      *  It also gives you a summary about what each app does.
-     *  It also has thee different states of writing. For instance, Pre-Writing Tools, Writing Tools, and lastly "Post-Writing Tools.
+     *  It also has the different states of writing that each website it names can help you with. For instance, Pre-Writing Tools, Writing Tools, and lastly Post-Writing Tools.
+   
+ * 4th google search: What are some software that writers use for writing?
+   * 4th website: (https://www.dabblewriter.com/)
+     * On this website you can write your own stories digitally and it provides you with little tools to help imrve yourw writing, but        not do it for you. 
+     * This website allows you to organzie all of the detsails of each character you create in your story
+     * It allows you to leave notes when writing your story in this website so that you can make small improvements.
+     * It allows yiu to map out every arc in your story so its easier for you to remeber, iundertsnad. and then incoporate into the          story.
+     * You can set goals to track the amount of words you write.
+     * You can highlight different and multiple words or sentences.
+     * This app can read your paragraphs to you, in order to help correct yoru phrasing and catch mistakes. 
+     
     
 ## Part B: possible future technology
 * Idea
