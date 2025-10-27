@@ -48,7 +48,31 @@ Topic: **X**
      * You can highlight different and multiple words or sentences.
      * This app can read your paragraphs to you, in order to help correct your phrasing and catch mistakes. 
      
-    
+
+
+## Part A: existing Hardware
+
+* 1st google search: Writing hardware
+  * 1st website: (https://kadavy.net/distraction-free-writing-devices/)
+
+* 1st hardware: AlphaSmart
+  * Link: (https://guypursey.com/blog/202106210800-my-alphasmart-neo-experience)
+  * It is a digital typewriter with an LCD screen.
+  * There are no distractions on it since it doesn't connect to the interent. This means you can't switch tabs.
+  * But it still does use electricty.
+  * It is easy to carry whcih means you cna type on the go.
+  * Since the screen is small and has a low angle no one can look over your  shoulder at your work, whic means you have privacy.
+ 
+ 
+
+* 2nd hardware: BYOK
+ * Link: (https://www.kickstarter.com/projects/byok/byok-the-ultimate-distraction-free-writing-tool)
+ * This device has no apps, no notifactions, and no distractions. That way people can focus and write faster and better.
+ * With this device you need to use a keyboard, but it can be any keyboard of your choice. That way your writing is bettter since you are more comfortable. 
+
+
+
+
 ## Part B: possible future technology
 * Idea
   * Detail
