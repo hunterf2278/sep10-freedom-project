@@ -66,12 +66,12 @@ Topic: **X**
 
 
 * 2nd hardware: BYOK
- * Link: (https://www.kickstarter.com/projects/byok/byok-the-ultimate-distraction-free-writing-tool)
- * This device has no apps, no notifactions, and no distractions. That way people can focus and write faster and better.
- * With this device you need to use a keyboard, but it can be any keyboard of your choice. That way your writing is bettter since you are more comfortable. 
- * Byok has a portable and compaxt design that is easy to carry so you can take your work and inspiration with you, where you go.
- * Since the BYOK isn't physcially attactehd to a computer, you can move it into any viweing postions that's comfortable for you.Also, you can attach it to a taller magnetic stand if you want it to be at eye level.
- * The Byok is afforadable without sacrifixng qualit.
+  * Link: (https://www.kickstarter.com/projects/byok/byok-the-ultimate-distraction-free-writing-tool)
+  * This device has no apps, no notifactions, and no distractions. That way people can focus and write faster and better.
+  * With this device you need to use a keyboard, but it can be any keyboard of your choice. That way your writing is bettter since you are more comfortable. 
+  * Byok has a portable and compaxt design that is easy to carry so you can take your work and inspiration with you, where you go.
+  * Since the BYOK isn't physcially attactehd to a computer, you can move it into any viweing postions that's comfortable for you.Also, you can attach it to a taller magnetic stand if you want it to be at eye level.
+  * The Byok is afforadable without sacrifixng qualit.
 
 
 
