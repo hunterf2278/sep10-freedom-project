@@ -57,7 +57,8 @@ Topic: **X**
 
 * 1st hardware: AlphaSmart
   * Link: (https://guypursey.com/blog/202106210800-my-alphasmart-neo-experience)
-  * It is a digital typewriter with an LCD screen.
+  * It is a digital typewriter with an LCD screen that is not backlit and need some form of light to read on it.
+  * However, the text can easily be read during the day time. 
   * There are no distractions on it since it doesn't connect to the interent. No notifications, no other tabs to google, etc.
   * But it still does use electricty.
   * It is easy to carry which means you can type on the go.
@@ -67,19 +68,19 @@ Topic: **X**
 * 2nd hardware: BYOK
   * Link: (https://www.kickstarter.com/projects/byok/byok-the-ultimate-distraction-free-writing-tool)
   * This device has no apps, no notifactions, and no distractions. That way people can focus and write faster and better.
-  * With this device you need to use a keyboard, but it can be any keyboard of your choice. That way your writing is better since you are more comfortable. 
-  * Byok has a portable and compact design that is easy to carry so you can take your work and inspiration with you, where you go.
-  * Since the BYOK isn't physcially attached to a computer, you can move it into any viewing postions that's comfortable for you.
+  * With this device you need to use a keyboard, but it can be any keyboard of your choice. That way, your writing is better since you are more comfortable. 
+  * Byok has a portable and compact design that is easy to carry so you can take your work and inspiration with you, wherever you go.
+  * Since the BYOK isn't physcially attached to a computer, you can move it into any viewing postion that's comfortable for you.
   * You can attach it to a taller magnetic stand if you want it to be at eye level.
-  * The Byok is afforadable without sacrifixng quality.
+  * The Byok is afforadable without sacrificing quality.
  
 
 * 3rd hardware: Freewrite
   * Link: (https://getfreewrite.com/?srsltid=AfmBOopuxMTi52KrlPe-I2sVPK2BBgXrVgg_jrMpEmKl-yApBsx6fI6Q)
-  * This device display is concentrtion friendly and visually comfortable, unlike computer screens which can strain the eye.
+  * This device display is concentration friendly and visually comfortable, unlike computer screens which can strain the eye.
   *  It has a longer lasting battery so you can write for longer periods of time.
   *  There are many different types of Freewrite's such as a Freewrite Traveler,Freewrite Smart Typewriter, and Freewrite Alpha.
-  *  It has one single function, you use it to write while computers are multifunctional  that can hinder your focus. 
+  *  It has one single function, you use it to write while computers are multifunctional, which can hinder your focus. 
 
 
 
