@@ -62,7 +62,7 @@ Topic: **X**
   * There are no distractions on it since it doesn't connect to the interent. No notifications, no other tabs to google, etc.
   * But it still does use electricty.
   * It is easy to carry which means you can write on the go.
-  * Since the screen is small and has a low angle no one can look over your  shoulder at your work, which means you have privacy.
+  * Since the screen is small and has a low angle no one can look over your shoulder at your work, which means you have privacy.
 
 
 * 2nd hardware: BYOK
@@ -80,7 +80,7 @@ Topic: **X**
   * This device display is concentration friendly and visually comfortable, unlike computer screens which can strain the eye.
   *  It has a longer lasting battery so you can write for longer periods of time.
   *  There are many different types of Freewrite's such as a Freewrite Traveler,Freewrite Smart Typewriter, and Freewrite Alpha.
-  *  It has one single function, you use it to write while computers are multifunctional, which can hinder your focus. 
+  *  It has one single function, you use it to write.  While computers are multifunctional, which can hinder your focus. 
 
 
 
