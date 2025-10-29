@@ -61,7 +61,7 @@ Topic: **X**
   * However, the text can easily be read during the day time. 
   * There are no distractions on it since it doesn't connect to the interent. No notifications, no other tabs to google, etc.
   * But it still does use electricty.
-  * It is easy to carry which means you can type on the go.
+  * It is easy to carry which means you can write on the go.
   * Since the screen is small and has a low angle no one can look over your  shoulder at your work, which means you have privacy.
 
 
