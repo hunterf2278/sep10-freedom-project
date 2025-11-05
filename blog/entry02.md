@@ -11,7 +11,9 @@ We have just currently finished stage 2 of the engineering design process. Stage
 The skills that I have learned when starting this blog and project are **How to Google** and...
 
 #### How to Google:
-When I was in my...
+When I was researching the different exsisting software that supports writers today, I searched up "Writing Apps" and I found a website known as Scrivener and I got a lot of information from it which was very helpful. Howver, as I kept using that search, I coudln't find any new and intersting software. So, I decided to change what I was searching, instead of just using "Writing Apps" I searched up "Writing programs" and I maanged to find another interesting website known as Hugohouse. Then I changed it again to get even more results, I searched up "What are some software that writers use for writing?" and found another website called Dabblewriter. Overall, this taught me how to properly search for stuff on google in order to get more different results. 
+
+###
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
