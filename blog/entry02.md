@@ -16,6 +16,9 @@ The skills that I have learned when starting this blog and project are **How to 
 When I was researching the different exsisting software that supports writers today, I searched up "Writing Apps" and I found a website known as Scrivener and I got a lot of information from it which was very helpful. However, as I kept using that search, I coudln't find any new and intersting software. So, I decided to change what I was searching, instead of just using "Writing Apps" I searched up "What is some software that people in writing use?" and I manged to find another interesting website known as Seven writign tools for authors.  Overall, this taught me how to properly search for stuff on google in order to get more different results. 
 
 ###
+
+### Summary:
+I look forward to continuing my Freedom project and eventually creating my own website. Though what I am excited for is the chance to  use my imagination to think of  new technology myself that can be invented to help writes just like myself, I can't wait!!
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
