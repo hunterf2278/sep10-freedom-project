@@ -19,6 +19,7 @@ When I was researching the different exsisting software that supports writers to
 
 ## Summary:
 I look forward to continuing my Freedom project and eventually creating my own website. Though what I am excited for is the chance to  use my imagination to think of  new technology myself that can be invented to help writes just like myself, I can't wait!!
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
