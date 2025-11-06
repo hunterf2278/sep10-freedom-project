@@ -2,7 +2,7 @@
 11/3/25
 
 ## Content:
-After I did my research I have learned that there are many different softwares and hardwares that is accesible to apsiring writers all around the world. For example, one software was an app called Scriverner which I found after searching "Writing apps", this app 
+After I did my research I have learned that there are many different softwares and hardwares that is accesible to apsiring writers all around the world. For example, one software was an app called Scriverner which I found after searching "Writing apps", this app has many diff
 
 ## Engineering Design Process: 
 We have just currently finished stage 2 of the engineering design process. Stage 2 was when we had to research different types of hardware and software that were already developed and could help young inspired writers. The next stage after this is stage three, which is that I need to brainstorm the possibilities of teachnology that doesn't exsist, but could help kids further improve their writing. This will help me solve my problem that there are many possibilties of unexplored technology that could help improve a person's writing.
