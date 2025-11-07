@@ -10,12 +10,13 @@ Now, I also researched hardware that can help writers, I searched in google "Wri
 We have just currently finished stage 2 of the engineering design process. Stage 2 was when we had to research different types of hardware and software that were already developed and could help young inspired writers. The next stage after this is stage three, which is that I need to brainstorm the possibilities of teachnology that doesn't exsist, but could help kids further improve their writing. This will help me solve my problem that there are many possibilties of unexplored technology that could help improve a person's writing.
 
 ## Skills: 
-The skills that I have learned when starting this blog and project are **How to Google** and...
+The skills that I have learned when starting this blog and project are **How to Google** and a **Growth Mindset**
 
 #### How to Google:
 When I was researching the different exsisting software that supports writers today, I searched up "Writing Apps" and I found a website known as Scrivener and I got a lot of information from it which was very helpful. However, as I kept using that search, I coudln't find any new and intersting software. So, I decided to change what I was searching, instead of just using "Writing Apps" I searched up "What is some software that people in writing use?" and I manged to find another interesting website known as Seven writign tools for authors.  Overall, this taught me how to properly search for stuff on google in order to get more different results. 
 
-###
+#### Growth Mindset:
+I had a growth mindset because when I was doing my FreeCodeCamp lessons, I was stuck on the lesson "Use Clockwise Notation to Specify the Margin of an Element" and I couldn't figure it  out. So, I was going to go straight to asking my friend or use slack for help. However, I stopped myself and decided to persevere, sit, and think more about the problem and how to solve it. Luckily, I eventually did find the answer, all I had to do was reorder the numbers to the correct order of top, the left side, bottom, and the right side. When I was finished,  I was very proud of myself. Now I know, that all you need is patience and you can find the answer yourself instead of going straight to asking for help even though that is a useful skill. 
 
 ## Summary:
 I look forward to continuing my Freedom project and eventually creating my own website. Though what I am excited for is the chance to  use my imagination to think of  new technology myself that can be invented to help writes just like myself, I can't wait!!
