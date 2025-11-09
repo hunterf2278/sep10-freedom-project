@@ -20,7 +20,7 @@ When I was researching the different existing software, I searched up "Writing A
 I had a growth mindset because when I was doing my research, I was frustrated and tired because I wasn't sure what details from the apps I should take notes of. I felt like giving up, however, I stopped myself. I decided to calm myself down and take a break, go on a little walk, get away from the computer, then come back and continue to persevere through it. Once I came back, I sat and thought about just writing down the details I find important from the website. Eventually, I finished and was satisfied with my notes and proud of myself. I learned that sometimes, all you need is patience and persistence in order to find the answer yourself, instead of just giving up.
 
 ## Summary:
-I look forward to continuing my Freedom project and eventually creating my own website. Though what I am excited for is the chance to  use my own imagination to think of new technologythat can be invented to help writes just like myself, I can't wait!!
+I look forward to continuing my Freedom project and eventually creating my own website. Though what I am excited for is the chance to  use my own imagination to think of new technology that can be invented to help writers just like myself, I can't wait!!
 
 [Previous](entry01.md) | [Next](entry03.md)
 
