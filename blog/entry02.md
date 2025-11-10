@@ -10,16 +10,16 @@ To find different types of hardwares, I searched on Google  for"writing hardware
 We have just currently finished stage 2 of the engineering design process. Stage 2 was when we had to research different types of hardware and software that were already developed, and could help young inspired writers. The next stage after this is stage three, which requires me to brainstorm the possibilities of technology that doesn't exist, but could help further improve kids' writing. This will help me solve my problem that there are many possibilities of unexplored technology that could help improve a person's writing.
 
 ## Skills: 
-The skills that I have learned when starting this blog and project are **How to Google** and a **Growth Mindset**.
+The two main skills I have learned when starting this blog and project are **How to Google** and having a **Growth Mindset**.
 
 #### How to Google:
-When I was researching the different existing software, I searched up "Writing Apps" and I found a website known as Scrivener and I got a lot of information from it. However, as I kept using that search, I couldn't find any interesting websites. So, I decided to change what I was searching, instead of just using "Writing Apps" I searched up "What is some software that people in writing use?" and I managed to find another interesting website known as Seven Writing Tools for Authors. Overall, this taught me how to properly search on google in order to get more results.
+When I was researching the different existing software, I searched "Writing Apps" and I found a website called Scrivener which gave me a lot of helpful information. However, as I kept using that search, I kept getting the same result over and over again. So, I changed my search to  "What software that people in writing use?" and I found a completely different website called Seven Writing Tools for Authors. Overall, this taught me how to properly search on google in order to get more useful results.
 
 #### Growth Mindset:
-I had a growth mindset because when I was doing my research, I was frustrated and tired because I wasn't sure what details from the apps I should take notes of. I felt like giving up, however, I stopped myself. I decided to calm myself down and take a break, go on a little walk, get away from the computer, then come back and continue to persevere through it. Once I came back, I sat and thought about just writing down the details I find important from the website. Eventually, I finished and was satisfied with my notes and proud of myself. I learned that sometimes, all you need is patience and persistence in order to find the answer yourself, instead of just giving up.
+I used a growth mindset during my research because I got frustrated and tired at times  since I didn't know what details I should write down, and I honestly felt like giving up. But I stopped myself, I took a break, went on a walk to get away from the computer. When I came back, I decided to write down the details I found important. I finished my reasearch and was proud of myself. I learned that sometimes, all you need is patience and persistence in order to find the answer yourself, instead of just giving up.
 
 ## Summary:
-I look forward to continuing my Freedom project and eventually creating my own website. Though what I am excited for is the chance to  use my own imagination to think of new technology that can be invented to help writers just like myself, I can't wait!!
+I look forward to continuing to work on my Freedom project and eventually create my own website. Though what I'm most excited about is using my imagination to come up with new technology that can be invented to help writers like myself, I can't wait!!
 
 [Previous](entry01.md) | [Next](entry03.md)
 
