@@ -13,7 +13,8 @@ Topic: **X**
   The link to the slides:  (yellkey.com/true) 
   
  * 1st google search: Writing apps
-   * 1st website: (https://scrivener.app/) and (https://www.literatureandlatte.com/scrivener/overview) 
+   * 1st website: (https://scrivener.app/) and (https://www.literatureandlatte.com/scrivener/overview)
+     * ##### Scrivner was released on January 20,2007.
      * This website can help you edit and organize your work better, it can either restruct all your paragraphs to make them shorter and simpler, or it can just make simple corrections.
      * It helps your track your progress and set goals for your writing.
      * In addition it has tools for publishing your writing and exporting it.
@@ -23,6 +24,7 @@ Topic: **X**
     
  * 2nd google search: Writing programs
    * 2nd website: (https://hugohouse.org/)
+     * ##### It was founded in 1997.
      * There are events where Pulitzer Prize winners, community favorites, and poet laureate´s attend for readingś or discussions.
      * You can take classes in this program, that are three-hour long writing sessions.
      * #### Each class can incude one or more of these formats:
@@ -32,14 +34,16 @@ Topic: **X**
      *  Generative writing(students create new work during class or from assignments).
      * Youth programs: Young Writers Cohort and Scribes Summer Camp.
     
- * 3rd google search: What is some software that people in writing use?
+ * 3rd google search: What is some software that people in writing use? 
   *  3rd website: (https://www.writtenwordmedia.com/best-writing-software-seven-writing-tools-for-authors/)
+     *  ##### It was published on May 16, 2022. 
      *  This website is about the different software or apps that people can use during the different stages of their writing
      *  It also gives you a summary about what each app does.
      *  It also has the different states of writing, and each website it names can help you with those different states. For instance, the states are Pre-Writing Tools, Writing Tools, and lastly Post-Writing Tools.
    
  * 4th google search: What are some software that writers use for writing?
    * 4th website: (https://www.dabblewriter.com/)
+     * 
      * On this website you can write your own stories digitally and it provides you with little tools to help improve your writing,           but not completely do it for you. 
      * This website can help you organize all the details of each character you create in your story.
      * It allows you to leave notes when writing your story in this website so that you can remember to make small improvements.
