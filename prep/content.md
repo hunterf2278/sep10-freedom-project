@@ -43,7 +43,7 @@ Topic: **X**
    
  * 4th google search: What are some software that writers use for writing?
    * 4th website: (https://www.dabblewriter.com/)
-     * 
+     * ##### Dabblewriter, was slaunched in 2017
      * On this website you can write your own stories digitally and it provides you with little tools to help improve your writing,           but not completely do it for you. 
      * This website can help you organize all the details of each character you create in your story.
      * It allows you to leave notes when writing your story in this website so that you can remember to make small improvements.
@@ -60,6 +60,7 @@ Topic: **X**
   * 1st website: (https://kadavy.net/distraction-free-writing-devices/)
 
 * 1st hardware: AlphaSmart
+  * ##### The Alphasmart was first shipped in August 1993.
   * Link: (https://guypursey.com/blog/202106210800-my-alphasmart-neo-experience)
   * It is a digital typewriter with an LCD screen that is not backlit and need some form of light to read on it.
   * However, the text can easily be read during the day time. 
@@ -70,6 +71,7 @@ Topic: **X**
 
 
 * 2nd hardware: BYOK
+  * ##### It was launched on August 21,2024.
   * Link: (https://www.kickstarter.com/projects/byok/byok-the-ultimate-distraction-free-writing-tool)
   * This device has no apps, no notifactions, and no distractions. That way people can focus and write faster and better.
   * With this device you need to use a keyboard, but it can be any keyboard of your choice. That way, your writing is better since you are more comfortable. 
@@ -80,6 +82,7 @@ Topic: **X**
  
 
 * 3rd hardware: Freewrite
+  * ##### It was first introduced to the public in December 2014.
   * Link: (https://getfreewrite.com/?srsltid=AfmBOopuxMTi52KrlPe-I2sVPK2BBgXrVgg_jrMpEmKl-yApBsx6fI6Q)
   * This device display is concentration friendly and visually comfortable, unlike computer screens which can strain the eye.
   *  It has a longer lasting battery so you can write for longer periods of time.
