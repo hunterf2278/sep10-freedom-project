@@ -73,6 +73,8 @@ Topic: **X**
   * It is easy to carry which means you can write on the go.
   * Since the screen is small and has a low angle no one can look over your shoulder at your work, which means you have privacy.
 
+<img width="400" height="427" alt="image" src="https://github.com/user-attachments/assets/c775a491-300d-4cb9-a4d4-c8d225a128fc" />
+
 
 * 2nd hardware: BYOK
   * ##### It was launched on August 21,2024.
@@ -83,7 +85,9 @@ Topic: **X**
   * Since the BYOK isn't physcially attached to a computer, you can move it into any viewing postion that's comfortable for you.
   * You can attach it to a taller magnetic stand if you want it to be at eye level.
   * The Byok is afforadable without sacrificing quality.
- 
+
+<img width="400" height="497" alt="image" src="https://github.com/user-attachments/assets/bcb641ff-9c8d-4188-acaa-3a820f76e9d1" />
+
 
 * 3rd hardware: Freewrite
   * ##### It was first introduced to the public in December 2014.
