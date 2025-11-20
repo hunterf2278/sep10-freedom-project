@@ -20,8 +20,11 @@ Topic: **X**
      * In addition it has tools for publishing your writing and exporting it.
      * You can add dates, checkboxes, and lists  in order to keep track of important issues, such as writing a section for a report.
      * On this website, there is easier formatting. For instance, you can have headings, titles, fonts, etc, which can help you organize your writing and remember important information.
-     * There is a feature on this app that tracks how often you use certain words, this helps you make sure that you aren´t reusing words too much and if so, you can make substitutes. 
+     * There is a feature on this app that tracks how often you use certain words, this helps you make sure that you aren´t reusing words too much and if so, you can make substitutes.
     
+<img width="400" height="489" alt="image" src="https://github.com/user-attachments/assets/f23407af-e8c5-41bf-9ba6-46284ea3d40e" />
+
+
  * 2nd google search: Writing programs
    * 2nd website: (https://hugohouse.org/)
      * ##### It was founded in 1997.
@@ -52,6 +55,7 @@ Topic: **X**
      * You can highlight different and multiple words or sentences.
      * This app can read your paragraphs to you, in order to help correct your phrasing and catch mistakes. 
      
+<img width="400" height="630" alt="image" src="https://github.com/user-attachments/assets/3d8148da-7cb4-4f49-a152-c709942ba9a1" />
 
 
 ## Part A: existing Hardware
