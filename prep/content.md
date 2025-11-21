@@ -1,20 +1,17 @@
 # Content
 Topic: **X**
 
-## Overview/Introduction/Context
-* Text
-* Text
+## Overview:
+* Writing has been around for centuries, it was and stil is one of the most common methods of communication. Even thoygh technology has changed a lot of things adn mmany innovatiosn have beeen invented, writiign is still used to day wheyher 
 
 ## Part A: existing technology
-* Tech
-  * Detail
-  * [image text](image URL)
+
  
   The link to the slides:  (yellkey.com/true) 
   
  * 1st google search: Writing apps
    * 1st website: (https://scrivener.app/) and (https://www.literatureandlatte.com/scrivener/overview)
-     * ##### Scrivner was released on January 20,2007.
+     * ##### Scrivener was released on January 20,2007.
      * This website can help you edit and organize your work better, it can either restruct all your paragraphs to make them shorter and simpler, or it can just make simple corrections.
      * It helps your track your progress and set goals for your writing.
      * In addition it has tools for publishing your writing and exporting it.
