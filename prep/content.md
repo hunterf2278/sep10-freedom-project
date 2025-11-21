@@ -109,13 +109,13 @@ Topic: **X**
 
    * A device that scans people’s writing. 
    * So you don’t have to do the extra work of typing your writing somewhere, all it needs to do is see/scan it.
-   * Then give them little comments about how people can make it better, like little questions.
+   * Then it gives people little comments about how people can make it better, like little questions.
    * It doesn’t do or change your writing for you, it just helps you make the changes yourself. 
    * This device is small and easy to carry, it's portable.
-   * It can only be used for scanning people’s writing.
+   * It can ONLY be used for scanning people’s writing.
    * There are no additional distractions such as other websites or apps. 
    * It also scans to see if you used AI in your writing    
-   * It scans to see if you used it for your whole writing piece or if you used it for one or more sentences.
+   * It scans to see if you used AI for your whole writing piece, or if you used it for one or more sentences.
    * This device is made especially to  be used ONLY IN SCHOOL, when there are NO PHONES ALLOWED. 
 
 
