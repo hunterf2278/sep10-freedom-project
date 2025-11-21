@@ -107,30 +107,30 @@ Topic: **X**
 
 * Hardware: The Scanner
 
- * A device that scans people’s writing. 
- * So you don’t have to do the extra work of typing your writing somewhere, all it needs to do is see/scan it.
- * Then give them little comments about how people can make it better, like little questions.
- * It doesn’t do or change your writing for you, it just helps you make the changes yourself. 
- * This device is small and easy to carry, it's portable.
- * It can only be used for scanning people’s writing.
- * There are no additional distractions such as other websites or apps. 
- * It also scans to see if you used AI in your writing    
- * It scans to see if you used it for your whole writing piece or if you used it for one or more sentences.
- * This device is made especially to  be used ONLY IN SCHOOL, when there are NO PHONES ALLOWED. 
+   * A device that scans people’s writing. 
+   * So you don’t have to do the extra work of typing your writing somewhere, all it needs to do is see/scan it.
+   * Then give them little comments about how people can make it better, like little questions.
+   * It doesn’t do or change your writing for you, it just helps you make the changes yourself. 
+   * This device is small and easy to carry, it's portable.
+   * It can only be used for scanning people’s writing.
+   * There are no additional distractions such as other websites or apps. 
+   * It also scans to see if you used AI in your writing    
+   * It scans to see if you used it for your whole writing piece or if you used it for one or more sentences.
+   * This device is made especially to  be used ONLY IN SCHOOL, when there are NO PHONES ALLOWED. 
 
 
-* Hardware: The Screen Pen
+*  Hardware: The Screen Pen
 
- * A big electric pen that can use either ink or lead for when you're writing on paper.  
- * You need to refill the storage of lead and ink every week or week and a half 
- * Luckily the electric part of the pen doesn’t need charging
- * This pen has a little screen on it where you can see the words you are writing. 
- * The mistakes that the pen picks up on are grammar errors
- * When you make a grammatical mistake, the screen flashes red to let you know that what you wrote isn’t grammatically correct.
- * If you misspell a word, then the screen will flash blue. 
- * Once the screen is done flashing, it will underline a sentence where the error is, that way, the person knows what's wrong and can try to fix it. 
- * You can buy a pack of  10 of these pens on amazon for 5 dollars. 
- * You can buy the packs of led on amazon for 2$
+   * A big electric pen that can use either ink or lead for when you're writing on paper.  
+   * You need to refill the storage of lead and ink every week or week and a half 
+   * Luckily the electric part of the pen doesn’t need charging
+   * This pen has a little screen on it where you can see the words you are writing. 
+   * The mistakes that the pen picks up on are grammar errors
+   * When you make a grammatical mistake, the screen flashes red to let you know that what you wrote isn’t grammatically correct.
+   * If you misspell a word, then the screen will flash blue. 
+   * Once the screen is done flashing, it will underline a sentence where the error is, that way, the person knows what's wrong and can try to fix it. 
+   * You can buy a pack of  10 of these pens on amazon for 5 dollars. 
+   * You can buy the packs of led on amazon for 2$
 
 
 
