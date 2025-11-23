@@ -98,6 +98,7 @@ Topic: **X**
   *  There are many different types of Freewrite's such as a Freewrite Traveler,Freewrite Smart Typewriter, and Freewrite Alpha.
   *  It has one single function, you use it to write.  While computers are multifunctional, which can hinder your focus. 
 
+<img width="400" height="420" alt="image" src="https://github.com/user-attachments/assets/19d8780b-f7bb-4ed1-b09f-ef8f4158db05" />
 
 
 ## The Future of Writing Technology: 
