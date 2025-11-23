@@ -2,7 +2,10 @@
 Topic: **X**
 
 ## Overview:
-* Writing has been around for centuries, it was and stil is one of the most common methods of communication. It has evolved over the years from using pen and paper to technology. For example, some innovations were typewriters, and later phones and computers that people could write on. As time went on, the innovations changed to websites, apps and other hardware that advanced writing, and I am sure that there are many other possibile technology to help improve a person's writing.
+Writing has been around for centuries, it was and stil is one of the most common methods of communication. It has evolved over the years from using pen and paper to technology. For example, some innovations were typewriters, and later phones and computers that people could write on. As time went on, the innovations changed to websites, apps and other hardware that advanced writing, and I am sure that there are many other possible technology to help improve a person's writing.
+
+  ## Context:
+  This is a list of all the exsisting different websites, apps, and innovations that people use to improve their wrtiting. Also, I have brainstormed two non-existing innovations that students, teachers, and anyone could use to help advance their writing. 
 
 ## Part A: existing technology
 
