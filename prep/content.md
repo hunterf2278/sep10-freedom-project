@@ -2,7 +2,7 @@
 Topic: **X**
 
 ## Overview:
-* Writing has been around for centuries, it was and stil is one of the most common methods of communication. Even thoygh technology has changed a lot of things adn mmany innovatiosn have beeen invented, writiign is still used to day wheyher 
+* Writing has been around for centuries, it was and stil is one of the most common methods of communication. It has evolved over the years from using pen and paper to technology. For example, some innovations were typewriters, and later phones and computers that people could write on. As time went on, the innovations changed to websites, apps and other hardware that advanced writing, and I am sure that there are many other possibile technology to help improve a person's writing.
 
 ## Part A: existing technology
 
