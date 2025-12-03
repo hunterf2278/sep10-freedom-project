@@ -17,7 +17,7 @@ We have just finished stage 3 of the engineering design process. Stage 3 was whe
 
 
 ## Summary:
-I look forward to continuing to work on my Freedom project and finally creting my own website. Now thta I have finished alll of my reasearch and content, its finally time to work on making and designing a website, i'm super excited.
+I look forward to continuing to work on my Freedom project and finally creting my own website. Now that I have finished all of my research and content, its finally time to work on making and designing a website, i'm super excited.
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
