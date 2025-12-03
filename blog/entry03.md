@@ -15,6 +15,9 @@ We have just finished stage 3 of the engineering design process. Stage 3 was whe
 
 ## Skills: 
 
+The two main skills I have learned when starting this blog and project are **Embracing Failure** and having a **Organization**.
+
+
 ### Embracing Failure
 
 ### Organization
