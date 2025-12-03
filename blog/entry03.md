@@ -20,6 +20,8 @@ The two main skills I have learned when starting this blog and project are **Emb
 
 ### Embracing Failure:
 
+When
+
 ### Organization:
 
 
