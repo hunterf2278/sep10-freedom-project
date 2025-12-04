@@ -20,9 +20,11 @@ The two main skills I have learned when starting this blog and project are **Emb
 
 ### Embracing Failure:
 
-When
+When we were doing a gallery walk in class to show off our ideas for new inventions, I recieved many compliemnts and constructive critism. Some the comments forced me to rethink my idea which honestly made me feel a little dissapointed that some parts of my idea didn't make sense.  However, I refused to get discouraged and decided to use the feedback I got to improve my original idea, also I even used that feedback to create another idea for an invention.  
 
 ### Organization:
+
+I learned organization when I was organizing my exsiting technology reasearch. I had to think of what organization technique would make things easier for me and the people reading my future website to understand. For example, I thought about organizing my exsisting technology research by using a timeline. All my inventions had different years they were founded so it would be simple, but I already drafted my information into two sections of software and hardware innovations. I decided to do that because I  belived that a timeline with a mix of hardware and software would be  a bit confusing for people, so seperating these types of technology would be easier. 
 
 
 ## Summary:
