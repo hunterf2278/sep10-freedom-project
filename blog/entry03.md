@@ -28,7 +28,7 @@ I learned organization when I was organizing my exsiting technology reasearch. I
 
 
 ## Summary:
-I look forward to continuing to work on my Freedom project and finally creting my own website. Now that I have finished all of my research and content, its finally time to work on making and designing a website, i'm super excited.
+I look forward to continuing to work on my Freedom project and now that I have finally finished all of my research and content, it's time to work on making and designing my own website. I'm super excited!!
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
