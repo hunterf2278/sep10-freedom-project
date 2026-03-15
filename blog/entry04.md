@@ -2,7 +2,7 @@
 ##### 3/9/26
 
 ## Content:
-The tool that I chose was Aframe because I wanted to be abel to create a protype of my Writing product using 3d images. I also found animations very interesting and wanted to learn how to use them, so I could add it to the prototype I wanted to make. Now I tinkered with Aframe by changing the number's or dimensions of the 3d shapes, this way I coudl change  the proportions and postitions to my liking.  Next, I reviewed the guideliens on how to make animations amd tested it out. I learned that I can use the variable, x and y to make the animations vertical or horizontal. Additonally, I changed  the numbers and learned that the bigger the number, the more the animation moves  vertically or horizontally, and the opposite is true as well. I used what I learned to create a little tower of my own. 
+The tool that I chose was Aframe because I wanted to be abel to create a protype of my Writing product using 3d images. I also found animations very interesting and wanted to learn how to use them, so I could add it to the prototype I wanted to make. Now I tinkered with Aframe by changing the number's or dimensions of the 3d shapes, this way I could change  the proportions and postitions to my liking.  
 
 ```
 <html>
@@ -10,9 +10,8 @@ The tool that I chose was Aframe because I wanted to be abel to create a protype
     <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
   </head>
   <body>
-    <a-scene>
-      <a-box position="1 2.5 -3" rotation="0 45 0" color="#4CC3D9" height="1" animation="property: object3D.position.y; to:2.2; dir: alternate; dur: 2000; loop: true"></a-box>
-      <a-sphere position="0 1.25 -5" radius="1.1" color="#EF2D5E"></a-sphere>
+<a-scene>
+ <a-sphere position="0 1.25 -5" radius="1.1" color="#EF2D5E"></a-sphere>
       <a-cylinder position="1 0.75 -3" radius="0.5" height="2.2" color="black"></a-cylinder>
       <a-triangle position="1 3.65 -3" radius="5.5" height="6" color="red"></a-triangle>
       <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
@@ -22,7 +21,12 @@ The tool that I chose was Aframe because I wanted to be abel to create a protype
 </html>
 ```
 
-This is the code I used in my IDE in order to create my 3d shapes and even animate them. 
+Next, I reviewed the guideliens on how to make animations amd tested it out. I learned that I can use the variable, x and y to make the animations vertical or horizontal. Additonally, I changed  the numbers and learned that the bigger the number, the more the animation moves  vertically or horizontally, and the opposite is true as well. I used what I learned to create a little tower of my own. 
+
+```
+ <a-scene>
+      <a-box position="1 2.5 -3" rotation="0 45 0" color="#4CC3D9" height="1" animation="property: object3D.position.y; to:2.2; dir: alternate; dur: 2000; loop: true"></a-box>
+```
 
 ## Skills:
 The two main skills I have learned when starting this blog and tinkering with my tool is being brave and trying new things, and to pay attention to my code. 
