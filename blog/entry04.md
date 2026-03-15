@@ -15,8 +15,7 @@ I have always hated tinkering in my IDE and I was very annoyed and dissapointed 
 Whenever im coding there have been a couple of instances where im so focused on what I want to code, how much code I should have or need, that I forget all about the little things. I was so focused on adding more code, figuring out how to add more 3d shapes, and add more code in order to make my scene more interesting, I forgot that sometimes whever your changing one number in the dimensions of the shapes, you might need to change the  other numbers so that it's proportionate. This reminded me that I need ot pay close attention to all the code I have first and make sure I understand it, before I try and add more. 
 
 ### Summary:
-I can't wait to start fully desiging our website, especially since we are learning to 
-
+Now that I have chosen my tool, Aframe, and started tinkering and learning more about it, there are so many oppurtunities that await me. I have the ability to deisgn my product through 3d shapes and this will make my website even more exciting!
 
 
 [Previous](entry03.md) | [Next](entry05.md)
