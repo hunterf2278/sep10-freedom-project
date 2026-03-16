@@ -28,14 +28,6 @@ Next, I reviewed the guidelines on how to make animations amd tested it out. I l
       <a-box position="1 2.5 -3" rotation="0 45 0" color="#4CC3D9" height="1" animation="proper
 ```
 
-My animation moves vertically, it goes down like this...
-
-<img src="blob:chrome-untrusted://media-app/7ed35a8c-174f-4715-90df-2a83b75fed4e" alt="Screenshot 2026-03-15 8.50.36 PM.png"/>
-
-Then it goes up like this:
-
-<img src="blob:chrome-untrusted://media-app/7ed35a8c-174f-4715-90df-2a83b75fed4e" alt="Screenshot 2026-03-15 8.50.36 PM.png"/>
-
 ## Skills:
 The two main skills I have learned when starting this blog and tinkering with my tool is being brave and trying new things, and to pay attention to my code. 
 
