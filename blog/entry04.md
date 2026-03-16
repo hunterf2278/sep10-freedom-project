@@ -21,7 +21,7 @@ The tool that I chose was Aframe because I wanted to be able to create my own pr
 </html>
 ```
 
-Next, I reviewed the guidelines on how to make animations amd tested it out. I learned that I can use the variable, x and y to make the animations vertical or horizontal. Additonally, I changed  the numbers and learned that the bigger the number, the more the animation moves  vertically or horizontally, and the opposite is true as well. I used what I learned to create a little animation on my own. The code below is the code for the shape with animation. 
+Next, I reviewed the guidelines on how to make animations amd tested it out. I learned that I can use the variable, x and y to make the animations vertical or horizontal. Additonally, I changed  the numbers and learned that the bigger the number, the more the animation moves  vertically or horizontally, and the opposite is true as well. I used what I learned to create a little animation on my own. The code below is the code for the shape with the vertical animation.
 
 ```
  <a-scene>
