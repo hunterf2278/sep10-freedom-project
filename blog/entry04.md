@@ -25,8 +25,7 @@ Next, I reviewed the guidelines on how to make animations amd tested it out. I l
 
 ```
  <a-scene>
-      <a-box position="1 2.5 -3" rotation="0 45 0" color="#4CC3D9" height="1" animation="property: object3D.position.y;
-```
+      <a-box position="1 2.5 -3" rotation="0 45 0" color="#4CC3D9" height="1" animation="proper
 
 ## Skills:
 The two main skills I have learned when starting this blog and tinkering with my tool is being brave and trying new things, and to pay attention to my code. 
