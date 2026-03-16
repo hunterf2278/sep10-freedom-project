@@ -33,6 +33,7 @@ My animation moves vertically, it goes down like this...
 <img src="blob:chrome-untrusted://media-app/7ed35a8c-174f-4715-90df-2a83b75fed4e" alt="Screenshot 2026-03-15 8.50.36 PM.png"/>
 
 Then it goes up like this:
+
 <img src="blob:chrome-untrusted://media-app/7ed35a8c-174f-4715-90df-2a83b75fed4e" alt="Screenshot 2026-03-15 8.50.36 PM.png"/>
 
 ## Skills:
