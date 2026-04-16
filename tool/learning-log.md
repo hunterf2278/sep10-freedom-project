@@ -45,7 +45,11 @@ Goal: My goal was to understand the light component in Aframe. This can be used 
 
 ### Plan for 4/15-4/16-4/17
 
-Day 1: I want to learn more about my animations and how to make them bigger or more exaggerated, instead of them being minor movements. .
+Day 1: I want to learn more about my animations and how to make them bigger or more exaggerated, instead of them being minor movements.
+
+* I was testing out the numbers for the animation.
+   * The larger the numbers, such as 5.5, the more exaggerated the animation was.
+   * The smaller the numebrs, such as 2.2, the less exaggerated the animation was.
 
 Day 2: I can start learning more about the different shapes I can use in Aframe. Then I can see which shapes to use to make a model of my product, and start planning how to use them.
 
