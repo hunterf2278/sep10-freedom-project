@@ -1,7 +1,7 @@
-# Entry 5
-##### X/X/XX
+# Entry 5: Writing
+##### 4/17/26
 
-Text
+## Content:
 
 [Previous](entry04.md) | [Next](entry06.md)
 
