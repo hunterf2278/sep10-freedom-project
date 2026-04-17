@@ -22,7 +22,7 @@ Then I wanted to make my own sky background so I looked at this website:
 ### 3/29/26:
 Goal:  MY goal was to test out different Aframe components and see whch ones would the best to incorporate into my scenes.
 
-* Shadow: I picked because it sounded very interesting.  So I added the code into my IDE then previewed my scene. I liked it a lot, this component gives me the oppurutnity to make things physically darker and it could change the tone of my scenes.
+* Shadow: I picked because it sounded very interesting.  So I added the code into my IDE then previewed my scene. I liked it a lot, this component gives me the oppurtunity to make things physically darker and it could change the tone of my scenes.
 
 
 ### 4/10/26:
@@ -48,6 +48,10 @@ Day 1:
 
 Day 2:
 * I was testing out which shapes I could use to create my product.
+* I used a cylinder, triangle, box, and sphere then changed their colors and positions so that all of them were visible.
+* I also changed their animations, I used smaller numbers ot make it less exaggerated and bigger number to make it more exaggerated.
+
+Day 3:
 
 
 
