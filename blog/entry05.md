@@ -7,9 +7,11 @@
 
 ## Skills:
 
-### How to Read
+### How to Read:
 
-### Attention to Detail
+### Attention to Detail:
+
+### Summary:
 
 [Previous](entry04.md) | [Next](entry06.md)
 
