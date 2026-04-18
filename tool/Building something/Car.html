@@ -16,11 +16,14 @@
 
   <a-sphere color="navy" position="5 2 -6"></a-sphere>
 
- <a-sky color="lightblue"></a-sky>
 
- <a-camera>
-    <a-cursor color="pink"></a-cursor>
-  </a-camera>
+  <a-assets>
+  <img id="groundTexture" src="https://www.beachinaday.com/wp-content/uploads/2023/04/quartz-sand-1024x1024.jpg">
+</a-assets>
+
+<!-- ... -->
+ <a-plane src="#groundTexture" rotation="-90 0 0" width="30" height="30"></a-plane>
+
 
  </a-scene>
 

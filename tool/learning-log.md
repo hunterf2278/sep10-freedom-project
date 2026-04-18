@@ -16,7 +16,7 @@ Then I wanted to make my own sky background so I looked at this website:
 
 * I looked at all the different pictures and picked the one I wanted. I had a bit of trouble finding the link for the image since it was first a movign image
 * Eventually I foudn it and paste it into my IDE then previewed what I made. It turned out a bit weird because the picture might fit a ground texture more.
-* I tested to see hwo thr image would look if it was a ground texture but it looked really ugly and not proportional so I changed it back.
+* I tested to see how the image would look if it was a ground texture but it looked really ugly and not proportional so I changed it back.
 
 
 ### 3/29/26:
@@ -41,18 +41,18 @@ Goal: My goal was to understand the light component in Aframe. This can be used 
 
 ### 4/19/26:
 
-Day 1:
 * I was testing out the numbers for the animation.
-   * The larger the numbers, such as 5.5, the more exaggerated the animation was.
-   * The smaller the numebrs, such as 2.2, the less exaggerated the animation was.
+    * The larger the numbers, such as 5.5, the more exaggerated the animation was.
+    * The smaller the numebrs, such as 2.2, the less exaggerated the animation was.
 
-Day 2:
 * I was testing out which shapes I could use to create my product.
-* I used a cylinder, triangle, box, and sphere then changed their colors and positions so that all of them were visible.
-* I also changed their animations, I used smaller numbers ot make it less exaggerated and bigger number to make it more exaggerated.
+    * I used a cylinder, triangle, box, and sphere then changed their colors and positions so that all of them were visible.
+    * I also changed their animations, I used smaller numbers to make it less exaggerated and bigger number to make it more exaggerated as i learned previously.
 
-Day 3:
-
+* I was experimenting and seeing which backgrounds I would want to use.
+    * I looked up images online and pciked in to use as my ground texture, it looked really weird since the ground texture is flat and a sqaure shape.
+    * I decided that only certain images would ook good, such as an image of sand or concrete would work, and thats what I decided to try.
+    * However, I think I might use a plain colored square ground texture. It's  gonna look cleaner than if I use an image.
 
 
 ### Plan for 4/15-4/16-4/17
