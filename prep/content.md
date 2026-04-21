@@ -104,7 +104,7 @@ Writing has been around for centuries, it was and stil is one of the most common
 <img width="400" height="420" alt="image" src="https://github.com/user-attachments/assets/19d8780b-f7bb-4ed1-b09f-ef8f4158db05" />
 
 
-## The Future of Writing Technology: 
+## PArt B: The Future of Writing Technology: 
 
 * Hardware: The Scanner
 
