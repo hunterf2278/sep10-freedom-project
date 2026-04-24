@@ -21,7 +21,7 @@ Next, I learned that I can make animations and depending on the numbers in the c
 
 ```
   
-  Lastly, I learned that I could change the background and make it any image just by putting the link to the image in the code. Also, I can change the ground texture, where my shaoes are placed and make that an image as well. 
+  Lastly, I learned that I could change the background and make it any image just by putting the link to the image in the code. Also, I can change the ground texture, where my shapes are placed and make that an image as well. 
 
 
 ## Skills:
