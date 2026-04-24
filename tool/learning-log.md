@@ -50,7 +50,7 @@ Goal: My goal was to understand the light component in Aframe. This can be used 
     * I also changed their animations, I used smaller numbers to make it less exaggerated and bigger number to make it more exaggerated as i learned previously.
 
 * I was experimenting and seeing which backgrounds I would want to use.
-    * I looked up images online and pciked in to use as my ground texture, it looked really weird since the ground texture is flat and a sqaure shape.
+    * I looked up images online and picked it to use as my ground texture, it looked really weird since the ground texture is flat and a sqaure shape.
     * I decided that only certain images would ook good, such as an image of sand or concrete would work, and thats what I decided to try.
     * However, I think I might use a plain colored square ground texture. It's  gonna look cleaner than if I use an image.
 
