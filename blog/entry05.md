@@ -26,7 +26,7 @@ Next, I learned that I can make animations and depending on the numbers in the c
 
 ## Skills:
 
-### How to Read:
+### Time management:
 
 ### Attention to Detail:
 
