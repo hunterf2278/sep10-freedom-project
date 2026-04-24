@@ -6,6 +6,8 @@ My tool was Aframe which is a 3d design based tool. You can make 3d shapes such 
 
 <img width="1366" height="434" alt="image" src="https://github.com/user-attachments/assets/b81001fe-4c11-4533-b089-d26812743885" />
 
+
+
 Next, I learned that I can make animations and depending on the numbers in the code, thta will determind how exaggerated an animation is. If the number is 2.2 then the animation will be smaller, if its 5.5 then it will be bigger. 
 
 ```
