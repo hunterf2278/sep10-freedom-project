@@ -25,8 +25,10 @@ Next, I learned that I can make animations and depending on the numbers in the c
 
 
 ## Skills:
+The two main skills I have learned during the weeks I have been tinkering with my tool is time managment and...
 
 ### Time management:
+Throughout the last month, every week  I have had to complete a learning log every week about what my goal was and how I tinkered with my tool. For example, what methods 
 
 ### Attention to Detail:
 
