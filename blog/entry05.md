@@ -31,12 +31,13 @@ Next, I learned that I can make animations and depending on the numbers in the c
 The two main skills I have learned during the weeks I've been tinkering with my tool is attention to detail and time managment.
 
 ### Time management:
-Throughout the last month, I have had to complete a learning log every week about what my goal was and how I tinkered with my tool, Aframe. For example, i wrote down what I wanted to accomplish and how I wanted to test it out with Aframe. I had to prioritize my hw from other classes along with making sure I finish my learning log on time and doing it to the best of my ability.  Sometimes, I would start my learning log first and try to complete it in 30 minutes, if I had to go over the time then that was okay. However, usually it only took 20 to 30 minutes max. Then I would have the rest of my day to do all my other assignments. Overall, this helped me plan out my day and prioritize my assignments. 
+Throughout the last month, I have had to complete a learning log every week about what my goal was and how I tinkered with my tool, Aframe. For example, I wrote down what I wanted to accomplish and how I wanted to test it out with Aframe. I had to prioritize my hw from other classes along with making sure I finish my learning log on time and doing it to the best of my ability.  Sometimes, I would start my learning log first and try to complete it in 30 minutes, if I had to go over the time then that was okay. However, usually it only took 20 to 30 minutes max. Then I would have the rest of my day to do all my other assignments. Overall, this helped me plan out my day and prioritize my assignments. 
 
 ### Attention to Detail:
 My teacher told us that we needed to complete our learning logs,  but we never had to submit anything on google classroom.  I did my learning logs in my IDE and nothing else, however I noticed that I wasn't recieving a grade for them. So, when I asked my teacher why I got a DNS, he asked if I  `git pushed` them. Thats when I realized I needed to `git push` them to github so that my teacher would be able to see it and grade them. I went back into my IDE, and did  `git add .`  then `git commit -m` and lastly `git push`. I learned that I need to pay attention and remember little detail's such as `git pushing` so that mistakes like this don't happen agaim. 
 
 ### Summary:
+Now that I have tinkered with my tool and know exactly what it's capable of, I am ready to start making my 3d product. I am also excited to plan out my website and what exactly I want to incorporate in it, then finally start coding!! 
 
 
 [Previous](entry04.md) | [Next](entry06.md)
