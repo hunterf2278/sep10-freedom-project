@@ -28,6 +28,7 @@ Next, I learned that I can make animations and depending on the numbers in the c
   
   <img src="blob:chrome-untrusted://media-app/311f7540-191b-43e2-9940-cfafd4d1ce83" alt="Screenshot 2026-04-26 4.23.02 PM.png"/>
 
+<img src="blob:chrome-untrusted://media-app/d264f1a9-1fb2-4feb-a965-78a95b8056da" alt="Screenshot 2026-04-26 4.23.02 PM.png"/>
   
 
 ## Skills:
