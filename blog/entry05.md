@@ -28,7 +28,7 @@ Next, I learned that I can make animations and depending on the numbers in the c
   
 <a-scene>
   <a-assets>
-    <img id="groundTexture" src="https://cdn.aframe.io/a-painter/images/floor.jpg">
+   <img id="skyTexture" src="https://live.staticflickr.com/65535/55152677709_466f8b5c32_o.jpg">
   </a-assets>
 </a-scene>
 
