@@ -24,14 +24,8 @@ Next, I learned that I can make animations and depending on the numbers in the c
 
 ```
   
-  Lastly, I learned that I could change the background and make it any image just by putting the link to the image in the code. Also, I can change the ground texture which is where my shapes are placed, and make that an image as well. The code below is the image links I used for my ground and sky texture. 
+  Lastly, I learned that I could change the background and make it any image just by putting the link to the image in the code. Also, I can change the ground texture which is where my shapes are placed, and make that an image as well. 
   
-<a-scene>
-  <a-assets>
-   <img id="skyTexture" src="https://live.staticflickr.com/65535/55152677709_466f8b5c32_o.jpg">
-  </a-assets>
-</a-scene>
-
 
 ## Skills:
 The two main skills I have learned during the weeks I've been tinkering with my tool is attention to detail and time managment.
