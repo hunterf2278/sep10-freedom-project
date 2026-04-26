@@ -16,15 +16,22 @@ Next, I learned that I can make animations and depending on the numbers in the c
 ```
 <a-scene>
 
-  <a-box color="red" position="0 2 -5" rotation="0 45 0" scale="2 2 2" animation="property: object3D.position.y; to:5.5; dir: alternate; dur: 2000; loop: true"></a-box>
+   <a-box color="red" position="0 2 -5" rotation="0 45 0" scale="2 2 2" animation="property: object3D.position.y; to:5.5; dir: alternate; dur: 2000; loop: true"></a-box>
 
-  <a-box color="green" position="1 2.5 -3" rotation="0 45 0" color="red" height="1" animation="property: object3D.position.y; to:2.2; dir: alternate; dur: 2000; loop: true"></a-box>
+   <a-box color="green" position="1 2.5 -3" rotation="0 45 0" color="red" height="1" animation="property: object3D.position.y; to:2.2; dir: alternate; dur: 2000; loop: true"></a-box>
 
 </a-scene>
 
 ```
   
-  Lastly, I learned that I could change the background and make it any image just by putting the link to the image in the code. Also, I can change the ground texture, where my shapes are placed and make that an image as well. 
+  Lastly, I learned that I could change the background and make it any image just by putting the link to the image in the code. Also, I can change the ground texture which is where my shapes are placed, and make that an image as well. The code below is the image links I used for my ground and sky texture. 
+  
+<a-scene>
+  <a-assets>
+    <img id="groundTexture" src="https://cdn.aframe.io/a-painter/images/floor.jpg">
+    <img id="skyTexture" src="https://live.staticflickr.com/65535/55152677709_466f8b5c32_o.jpg">
+  </a-assets>
+</a-scene>
 
 
 ## Skills:
