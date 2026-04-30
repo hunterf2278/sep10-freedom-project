@@ -7,3 +7,12 @@ h1 {
 .navbar {
     background-color: lavender !important;
 }
+
+.card {
+    margin: 30px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    padding-top: 0;
+    background-color:red;
+}
