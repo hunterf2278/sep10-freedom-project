@@ -24,6 +24,12 @@ Goal:  MY goal was to test out different Aframe components and see whch ones wou
 
 * Shadow: I picked because it sounded very interesting.  So I added the code into my IDE then previewed my scene. I liked it a lot, this component gives me the oppurtunity to make things physically darker and it could change the tone of my scenes.
 
+Code:
+<a-entity light="type:directional; castShadow:true;" position="1 1 1"></a-entity>
+<a-gltf-model src="tree.gltf" shadow="receive: false"></a-gltf-model>
+
+<a-entity laser-controls="hand: left"></a-entity>
+
 
 ### 4/10/26:
 Goal: My goal was to understand the light component in Aframe. This can be used to shine different types of light on certain objects or places.
