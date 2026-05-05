@@ -1,30 +1,39 @@
 h1 {
     text-align: center;
-    background-color: pink;
+    background-color: brown;
+    color: white;
+
+}
+
+h5 {
+    text-align: center;
 
 }
 
 .navbar {
-    background-color: lavender !important;
+    background-color:beige!important;
 }
 
+
 .card {
-    margin: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
     text-align: center;
     position: relative;
-    top: 5px;
-    padding: 20;
+    padding: 35px;
     background-color:white;
 
 }
 
-.card-container{
-display:flex;
-flex-wrap:wrap;
-gap:20px;
-justify-content:center;
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%; /* Optional: defining a width helps visualize the centering */
 }
+
+
 
 body {
     background-color: lightblue;
