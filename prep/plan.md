@@ -2,7 +2,7 @@
 
 ## Wireframes
 * [Mobile](https://wireframe.cc/Vvfu5N)
-* [Desktop](https://wireframe.cc/8ejXjX)(https://wireframe.cc/c52thN)(https://wireframe.cc/8iJsiy)
+* [Desktop](https://wireframe.cc/8ejXjX)
 
 ## Colors
 * Beige
