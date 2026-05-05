@@ -57,7 +57,7 @@
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+| Emmanuel | I really like the organization of your website. The implementation of different links makes the website feel more modern and fluid. | If possible, consider trying to add a "go back to menu" link that will take you back to the context that way so that its more easier to move through different links.  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
