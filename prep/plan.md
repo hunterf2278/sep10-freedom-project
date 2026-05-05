@@ -3,6 +3,7 @@
 ## Wireframes
 * [Mobile](https://wireframe.cc/Vvfu5N)
 * [Desktop](https://wireframe.cc/c52thN)
+*(I have multiple wireframes, I only selected one to show)
 
 ## Colors
 * Beige
@@ -14,8 +15,8 @@
 
 
 ## Fonts
-* [Montserrat](URL)
-* [Playfair Display](URL)
+* [Italic]
+* [Arial]
 
 
 ## Timeline
@@ -30,12 +31,12 @@
 
 #### MVP
 
-* Fonts: Italic
 * Navbar and Tabs
 * background Color
 * Colors(text and background card colors)
 * Cards
 * Image of product
+* Content for Part A and B
 
 ---
 
