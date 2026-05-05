@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/Vvfu5N)
+* [Desktop](https://wireframe.cc/8ejXjX)(https://wireframe.cc/c52thN)(https://wireframe.cc/8iJsiy)
 
 ## Colors
 * Beige
