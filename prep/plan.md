@@ -3,14 +3,13 @@
 ## Wireframes
 * [Mobile](https://wireframe.cc/Vvfu5N)
 * [Desktop](https://wireframe.cc/c52thN)
-*(I have multiple wireframes, I only selected one to show)
+(I have multiple wireframes, but I only selected one to show)
 
 ## Colors
 * Beige
 * Blue
 * Brown
 * White
-
 
 
 
@@ -36,7 +35,10 @@
 * Colors(text and background card colors)
 * Cards
 * Image of product
-* Content for Part A and B
+* Part A
+* Part B
+* Content for homepage
+
 
 ---
 
