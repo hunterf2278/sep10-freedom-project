@@ -5,8 +5,11 @@
 * [Desktop]()
 
 ## Colors
-* Pink
+* Beige
 * Blue
+* Brown
+* White
+
 
 
 
@@ -27,7 +30,12 @@
 
 #### MVP
 
-* Task/Timeline
+* Fonts: Italic
+* Navbar and Tabs
+* background Color
+* Colors(text and background card colors)
+* Cards
+* Image of product
 
 ---
 
