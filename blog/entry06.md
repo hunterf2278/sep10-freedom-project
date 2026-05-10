@@ -24,7 +24,10 @@ This is an image of my wireframe:
 ## Skills
 The two skills I learned when completing my freedom project website are time managment and problem decompositon.
 
+### Problem decomposition
 
+
+### Time managment
 
 ## Summary
 
