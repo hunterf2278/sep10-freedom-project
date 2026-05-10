@@ -8,7 +8,7 @@ This is an image of my Part B page:
 <img src="blob:chrome-untrusted://media-app/23eca0e8-d967-4088-8616-f818f3ace276" alt="Screenshot 2026-05-10 2.23.28 PM.png"/>
 
 This is an image of my wireframe: 
-<img src="blob:chrome-untrusted://media-app/78199f96-922d-4d36-9521-d2a5b64ddf99" alt="Screenshot 2026-05-10 2.35.25 PM.png"/>
+<img src="Screenshot 2026-05-10 2.35.25 PM.png"/>
 
 
  One challenge I faced was in my PArt B page  where my image wasb't appearing on my website, even though I had all the code there in my html. So, when I couldn't  figure out why it wasn't working, I asked my classmate and he asked me if i downloaded the image intoa file in my IDE. Thats when I remembered in the shabr project, the images we were allowed to use were already in my IDE so when I added the code, thats why they appeared on my website.  I downloaded the images into my IDE then did `http-server` in order to preview my website and luckily my image was there. 
@@ -26,12 +26,14 @@ The two skills I learned when completing my freedom project website are time man
 
 ### Problem decomposition
 
-We were given a week in class to code our freedom project. I decided to break it all down into little parts that I would finish each day and then finish the basics of my website done by Friday. Then if I needed to I could make little changes and edits to my webstie over the weekend then I could do that. So I planned it all out in my `plan.md` in my IDE, then by Friday I acheived my goal and I only had to fix my image and and the layout of my homepage. However, on Saturday I was very busy so I didn't have the change to fully look at my website. 
+We were given a week in class to code our freedom project. I decided to break it all down into little parts that I would finish each day and then finish the basics of my website done by Friday. Then if I needed to I could make little changes and edits to my webstie over the weekend then I could do that. So I planned it all out in my `plan.md` in my IDE, then by Friday I acheived my goal and I only had to fix my image and and the layout of my homepage. However, on Saturday I was very busy so I tried to fix my website on Sunday but I realized that I didn't know how. So on Monday, when the project was due,  I had to ask a friend and he was able to help me. I learned that I need to make I'm able to get most of my work done in that week, and any parts leftoverm I neef ot make sure im able to do them by myself.  
 
-### Time managment
+### Collaboration
+
+when I couldn't figure out why my image wasn't showing on my website, or why my cards were stacked vertically when i wanted them horizontally. So, instead of sitting there hopelessly and helplessly, I decided to ask on slack, but no one responded. I asked my classmate in the morning before school started to help me in class, and he did help me the best that he could. unfortunalet, we ran out of time, so afetr school 
 
 ## Summary
-
+Now that I have finally finished my website, I am very excited 
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
