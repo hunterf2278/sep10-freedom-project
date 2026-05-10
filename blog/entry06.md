@@ -26,7 +26,7 @@ The two skills I learned when completing my freedom project website are time man
 
 ### Problem decomposition
 
-We were given a week in class to code our freedom project, and I decided to break it all down into little parts that I would get done 
+We were given a week in class to code our freedom project. I decided to break it all down into little parts that I would finish each day and then finish the basics of my website done by Friday. Then if I needed to I could make little changes and edits to my webstie over the weekend then I could do that. So I planned it all out in my `plan.md` in my IDE, then by Friday I acheived my goal and I only had to fix my image and and the layout of my homepage. However, on Saturday I was very busy so I didn't have the change to fully look at my website. 
 
 ### Time managment
 
