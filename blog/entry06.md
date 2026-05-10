@@ -2,7 +2,7 @@
 ##### 5/9/26
 
 ## Content
- I made my website by first planning it out with my wireframes and how I wanted to do it. TI made three wireframes for my computer version where I decided to do three tabs on my Navbar. One page would eb the homepage, next was the PArt A page and lastly Part B. Afeter I finished that, I started coding my Navbar and title on the homepage. Then I started to edit certain part of each page, such as creating cards and adding my content in them for each page. For my part B and my homepage I had to change how I wanted it layed out because it didn't fit with my content and i didn't like it. So i changed it and now I am satisfied with the layout and my whole website.
+ I made my website by first planning the layouy with wireframes. I made three wireframes for my computer version because I decided to do three tabs on my Navbar. One page would be the homepage, next was the Part A page and lastly Part B. Afeter I finished that, I started coding my Navbar and title on the homepage. Then I started to edit certain part of each page, such as creating cards and adding my content in them for each page. In my homepage and part I had to change the layout because it didn't fit with my content and I didn't like it. Now I am satisfied with the layout and my whole website.
 
 This is an image of my Part B page:
 <img src="Screenshot 2026-05-10 2.23.28 PM.png"/>
@@ -11,7 +11,7 @@ This is an image of my wireframe:
 <img src="Screenshot 2026-05-10 2.35.25 PM.png"/>
 
 
- One challenge I faced was in my PArt B page  where my image wasb't appearing on my website, even though I had all the code there in my html. So, when I couldn't  figure out why it wasn't working, I asked my classmate and he asked me if i downloaded the image intoa file in my IDE. Thats when I remembered in the shabr project, the images we were allowed to use were already in my IDE so when I added the code, thats why they appeared on my website.  I downloaded the images into my IDE then did `http-server` in order to preview my website and luckily my image was there. 
+ One challenge I faced was in my Part B page  where my image wasb't appearing on my website, even though I had all the code there in my html. So, when I couldn't  figure out why it wasn't working, I asked my classmate and he asked me if i downloaded the image into a file in my IDE. Thats when I remembered in the shabr project, the images we were allowed to use were already in my IDE. thats why when  I added the code, they appeared on my website. Then I downloaded the image into my IDE then did `http-server` in order to preview my website and luckily my image was there. 
 
  
  This screenshot shows the image downloaded into my IDE.
@@ -20,11 +20,10 @@ This is an image of my wireframe:
 
 
 ## EDP
-
-
+We just finished the final stage of our project, we created and completed our website for our topic in the span of a week. The next stages was for us to finish completing our product, and luckily I finished that 
 
 ## Skills
-The two skills I learned when completing my freedom project website are time managment and problem decompositon.
+The two skills I learned when completing my freedom project website are collaboration and problem decompositon.
 
 ### Problem decomposition
 
