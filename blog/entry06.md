@@ -2,21 +2,22 @@
 ##### 5/9/26
 
 ## Content
- I made my website by first planning the layouy with wireframes. I made three wireframes for my computer version because I decided to do three tabs on my Navbar. One page would be the homepage, next was the Part A page and lastly Part B. Afeter I finished that, I started coding my Navbar and title on the homepage. Then I started to edit certain part of each page, such as creating cards and adding my content in them for each page. In my homepage and part I had to change the layout because it didn't fit with my content and I didn't like it. Now I am satisfied with the layout and my whole website.
+ I made my website by first planning the layout with wireframes. I made three wireframes for my computer version because I decided to do three tabs on my Navbar. One page would be the homepage, next was the Part A page and lastly Part B. Afeter I finished that, I started coding my Navbar and title on the homepage. Then I started to edit certain part of each page, such as creating cards and adding my content in them for each page. In my homepage and part I had to change the layout because it didn't fit with my content and I didn't like it. Now I am satisfied with the layout and my whole website.
 
 This is an image of my Part B page:
-<img src="Screenshot 2026-05-10 2.23.28 PM.png"/>
+<img width="1366" height="594" alt="image" src="https://github.com/user-attachments/assets/bef7c6f4-824f-45db-a300-4733f5c3e8e3" />
 
 This is an image of my wireframe: 
-<img src="Screenshot 2026-05-10 2.35.25 PM.png"/>
+<img width="1018" height="540" alt="image" src="https://github.com/user-attachments/assets/48285d04-3641-4b87-8d00-368666ee71e7" />
 
 
- One challenge I faced was in my Part B page  where my image wasb't appearing on my website, even though I had all the code there in my html. So, when I couldn't  figure out why it wasn't working, I asked my classmate and he asked me if i downloaded the image into a file in my IDE. Thats when I remembered in the shabr project, the images we were allowed to use were already in my IDE. thats why when  I added the code, they appeared on my website. Then I downloaded the image into my IDE then did `http-server` in order to preview my website and luckily my image was there. 
+One challenge I faced was in my Part B page  where my image wasb't appearing on my website, even though I had all the code there in my html. So, when I couldn't  figure out why it wasn't working, I asked my classmate and he asked me if i downloaded the image into a file in my IDE. Thats when I remembered in the shabr project, the images we were allowed to use were already in my IDE. thats why when  I added the code, they appeared on my website. Then I downloaded the image into my IDE then did `http-server` in order to preview my website and luckily my image was there. 
 
  
  This screenshot shows the image downloaded into my IDE.
+ 
+<img width="900" height="442" alt="image" src="https://github.com/user-attachments/assets/5885a721-752d-4fe0-8616-e36adab10272" />
 
- <img src="Screenshot 2026-05-10 2.07.53 PM.png"/>
 
 
 ## EDP
