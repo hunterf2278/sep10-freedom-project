@@ -5,7 +5,7 @@
  I made my website by first planning it out with my wireframes and how I wanted to do it. TI made three wireframes for my computer version where I decided to do three tabs on my Navbar. One page would eb the homepage, next was the PArt A page and lastly Part B. Afeter I finished that, I started coding my Navbar and title on the homepage. Then I started to edit certain part of each page, such as creating cards and adding my content in them for each page. For my part B and my homepage I had to change how I wanted it layed out because it didn't fit with my content and i didn't like it. So i changed it and now I am satisfied with the layout and my whole website.
 
 This is an image of my Part B page:
-<img src="blob:chrome-untrusted://media-app/23eca0e8-d967-4088-8616-f818f3ace276" alt="Screenshot 2026-05-10 2.23.28 PM.png"/>
+<img src="Screenshot 2026-05-10 2.23.28 PM.png"/>
 
 This is an image of my wireframe: 
 <img src="Screenshot 2026-05-10 2.35.25 PM.png"/>
@@ -16,10 +16,12 @@ This is an image of my wireframe:
  
  This screenshot shows the image downloaded into my IDE.
 
- <img src="blob:chrome-untrusted://media-app/0869c1ec-f9c9-4a82-8568-233b808c6474" alt="Screenshot 2026-05-10 2.07.53 PM.png"/>
+ <img src="Screenshot 2026-05-10 2.07.53 PM.png"/>
 
 
 ## EDP
+
+
 
 ## Skills
 The two skills I learned when completing my freedom project website are time managment and problem decompositon.
@@ -30,10 +32,12 @@ We were given a week in class to code our freedom project. I decided to break it
 
 ### Collaboration
 
-when I couldn't figure out why my image wasn't showing on my website, or why my cards were stacked vertically when i wanted them horizontally. So, instead of sitting there hopelessly and helplessly, I decided to ask on slack, but no one responded. I asked my classmate in the morning before school started to help me in class, and he did help me the best that he could. unfortunalet, we ran out of time, so afetr school 
+when I couldn't figure out why my image wasn't showing on my website, or why my cards were stacked vertically when i wanted them horizontally. So, instead of sitting there hopelessly and helplessly, I decided to ask on slack, but no one responded. I asked my classmate in the morning before school started to help me in class, and he helped me the best he could. Unfortunatly, we ran out of time, so after school I texted him for more additonal help. overall, I learned that its better to the resources aroound you and ask for help when you can. 
 
 ## Summary
-Now that I have finally finished my website, I am very excited 
+Now that I have finally finished my website and my product, I am very excited to see whats the next step in this project!!
+
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
