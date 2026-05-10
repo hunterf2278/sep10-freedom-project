@@ -26,6 +26,7 @@ The two skills I learned when completing my freedom project website are time man
 
 ### Problem decomposition
 
+We were given a week in class to code our freedom project, and I decided to break it all down into little parts that I would get done 
 
 ### Time managment
 
