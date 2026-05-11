@@ -1,7 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* Have you ever thpught about how much time you could save if you didnt have to ask your teachers, family, or even your friends for help to check your writing. Don't you wish that you could check your writing as you go, so you could save more time and learn as you go? Well luckily, my product the Screen Pen is able to do that for you. 
+* Have you ever thought about how much time you could save if you didnt have to ask your teachers, family, or even your friends for help to check your writing. Don't you wish that you could check your writing as you go, so you could save more time and learn as you go? Well luckily, my product the Screen Pen is able to do that for you. 
 
 ## Product
 * The screeen pen is a big electric pen that uses ink and needs to be charged, but not daily.
@@ -14,7 +14,7 @@
 * Now, the person knows what the error is and can try to fix it themselves, this way, the tools isn't doing the worl for them. They still have to figure ot why its an error. 
 
 ## Process
-* 
+* First I started 
 
 ## Conclusion
 * 
