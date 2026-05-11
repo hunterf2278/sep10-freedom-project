@@ -1,10 +1,17 @@
 # Presentation Plan
 
 ## Hook
-*  yn5ryrnjyme3mume3
+* Have you ever thpught about how much time you could save if you didnt have to ask your teachers, family, or even your friends for help to check your writing. Don't you wish that you could check your writing as you go, so you could save more time and learn as you go? Well luckily, my product the Screen Pen is able to do that for you. 
 
 ## Product
-* 
+* The screeen pen is a big electric pen that uses ink and needs to be charged, but not daily.
+* It is called the screen pen because it ahs a little screen where people can see the errors they made.
+*  While writing, whenever an arror occurs the screen will light up to alert you.
+           * If you made a grammaticla error, the screen will light up red
+           * If you mispelled a word, the screen will light up blue.
+
+* when the scren is done flashing, it will underline the sentence on the screen to show you where your error is
+* Now, the person knows what the error is and can try to fix it themselves, this way, the tools isn't doing the worl for them. They still have to figure ot why its an error. 
 
 ## Process
 * 
