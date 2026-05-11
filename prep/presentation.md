@@ -6,8 +6,8 @@
 ## Product
 * The screeen pen is a big electric pen that uses ink and needs to be charged, but not daily.
 * It is called the screen pen because it ahs a little screen where people can see the errors they made.
-*  While writing, whenever an arror occurs the screen will light up to alert you.
-* If you made a grammaticla error, the screen will light up red
+*  While writing, whenever an error occurs the screen will light up to alert you.
+  * If you made a grammatical error, the screen will light up red
   * If you mispelled a word, the screen will light up blue.
 
 * when the scren is done flashing, it will underline the sentence on the screen to show you where your error is
