@@ -4,17 +4,21 @@
 * Have you ever thought about how much time you could save if you didnt have to ask your teachers, family, or even your friends for help to check your writing. Don't you wish that you could check your writing as you go, so you could save more time and learn as you go? Well luckily, my product the Screen Pen is able to do that for you. 
 
 ## Product
-* The screeen pen is a big electric pen that uses ink and needs to be charged, but not daily.
+* The screeen pen is a big electric pen with an eraser, that uses ink and needs to be charged, but not daily.
 * It is called the screen pen because it ahs a little screen where people can see the errors they made.
 *  While writing, whenever an error occurs the screen will light up to alert you.
   * If you made a grammatical error, the screen will light up red
   * If you mispelled a word, the screen will light up blue.
 
-* when the scren is done flashing, it will underline the sentence on the screen to show you where your error is
-* Now, the person knows what the error is and can try to fix it themselves, this way, the tools isn't doing the worl for them. They still have to figure ot why its an error. 
+* when the screen is done flashing, it will underline the sentence on the screen to show you where your error is
+* Now, the person knows what the error is and can try to fix it themselves, this way, the tools isn't doing the work for them. They still have to figure out why its an error. 
 
 ## Process
-* First I started 
+* First, I brainstormed my topic and got feedback to make sure that there was enoug backgorudn information on it. I ultimately decided on Writing as my  topic. Then I  started researching the different technlogies that exsisted todya so that my product wasn't to similar to them.
+* Next, I researched the different hardwares and softwares that people use for wiritng now such as the apps "Dabblewriter" and "Scrivener". I also found hardwares such as the  "Freewrite" and the "Alphasmart"
+* Then, I started brainstorming my products and thats when I came up with two inventions, the Scanner and the  Screen Pen. I decided on the Screen Pen since I found this one a bit more versatile and different from any other inventions I researched.
+* My nextstep was to pick a tool that would help me design my product. I chose Aframe because it was a tool where you could use 3d shapes such as a cylinder, cube or triangle to make 3d products. I relaized I could use that to create a 3d model of the Screen Pen., which is what I did.
+* Finally, I was ready to start coding my website. I planned the layout of my website with wireframes, then started adding all my content in. Lastly. I edited and polished my website and then I was finished. 
 
 ## Conclusion
 * 
