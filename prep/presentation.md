@@ -14,15 +14,15 @@
 * Now, the person knows what the error is and can try to fix it themselves, this way, the tools isn't doing the work for them. They still have to figure out why its an error. 
 
 ## Process
-* First, I brainstormed my topic and got feedback to make sure that there was enoug backgorudn information on it. I ultimately decided on Writing as my  topic. Then I  started researching the different technlogies that exsisted todya so that my product wasn't to similar to them.
-* Next, I researched the different hardwares and softwares that people use for wiritng now such as the apps "Dabblewriter" and "Scrivener". I also found hardwares such as the  "Freewrite" and the "Alphasmart"
-* Then, I started brainstorming my products and thats when I came up with two inventions, the Scanner and the  Screen Pen. I decided on the Screen Pen since I found this one a bit more versatile and different from any other inventions I researched.
-* My next step was to pick a tool that would help me design my product. I chose Aframe because it was a tool where you could use 3d shapes such as a cylinder, cube or triangle to make 3d products. I relaized I could use that to create a 3d model of the Screen Pen. which is what I did.
-* Finally, I was ready to start coding my website. I planned the layout of my website with wireframes, then started adding all my content in. Lastly. I edited and polished my website and then I was finished. 
+* First, I brainstormed my topic and got feedback to make sure that there was enouhg background information on it. I ultimately decided on writing as my  topic. Then I started researching the different technologies that exsisted today so my product won't be to similar to them.
+* Next, I researched the different hardwares and softwares that people use for writing now such as the apps "Dabblewriter" and "Scrivener". I also found hardwares such as the  "Freewrite" and the "Alphasmart"
+* Then, I started brainstorming my products and thats when I came up with two inventions, the Scanner and the  Screen Pen. I decided on the Screen Pen since I found this one a bit more versatile and different from the other inventions I researched.
+* My next step was to pick a tool that would help me design my product. I chose Aframe because it was a tool where you could use 3d shapes such as a cylinder, cube, or triangle to make 3d products. I realized that I could use that to create a 3d model of the Screen Pen, which is what I did.
+* Finally, I was ready to start coding my website. I planned the layout of my website with wireframes, then started adding all my content in tow the three pages of my website.  Lastly, I edited and polished the layout and content of my website, then I was finished. 
 
 ## Conclusion
-* Communicaton: I need to use the resources around me to my full advantage. For exmaple, asking for help  from friends and on slack earlier, and before we get closer to the due date of the project. This way, im not stressing if I can't get the help I need in time.
-*  Time management: I need to make sure I give myself more then enough time to complete something. For exmaple, instead of giving myslef oen day to do soemthing, I can chip away at it, do 10-30 minutes of it per day so that by the end of week I have a lot done. Then  I'm not rushing or panicking in the end.
+* Communicaton: I need to use the resources around me to my full advantage. For exmaple, asking for help  from friends and on slack earlier, and before we get closer to the due date of the project. This way, I'm not stressing if I can't get the help I need in time.
+*  Time management: I need to make sure I give myself more then enough time to complete something. For exmaple, instead of giving myslef one day because im busy, I can make time to chip away at it. I can do 10-30 minutes of it per day so that by the end of week I have a lot done. Then  I'm not rushing or panicking in the end.
 *  Pay attention to detail: I need to make sure that I remember what I did in previous project or on previous occasions, such as how to add images into my website through my IDE. This way, I won't have the same problem in the future and I'm  confused and frustrated trying to figure it out.  
 
 <!-- EXAMPLE
