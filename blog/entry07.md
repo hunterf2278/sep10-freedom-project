@@ -25,8 +25,6 @@ I used my creativity to create the Screen Pen. I didn't wan ty product to be sim
 
 [Presentation](https://github.com/hunterf2278/sep10-freedom-project/blob/main/prep/presentation.md)
 
-[Plan.md](https://github.com/hunterf2278/sep10-freedom-project/blob/main/prep/plan.md)
-
 ## Summary 
  I have finished my SEP10 Freedom Project, I am very happyu and proud of myself for creating a website and product all on my own. Now I am very excited for SEP11 and designing my own app or game.  
 
