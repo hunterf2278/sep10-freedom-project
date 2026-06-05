@@ -3,7 +3,7 @@
 
 ## Content
 
-When 
+My in-class presentation was nice but it was 12 minutes long, so next time I need to talk less or don't go into detail about certain parts of my project. Next, I had a lot of text on my slies, so I need to 
  
 ## EDP
 
