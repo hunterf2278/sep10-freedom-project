@@ -17,7 +17,7 @@ When completing in front of my class, I was able to get practice and prepare for
 
 ### Creativity
 
-I used my creativity to create the Screen Pen. I didn't wan ty product to be similar to other inventiosn or possibly replaced by AI. So I thought of making a pen that would force kids to use their braisn and get the answers onn their own, instead of ysing AI where they can just get the answers and d0on't learn anythign on how the answer is correct. My Screen Pen shows kids the errors they are making, but doesn't give them the corrrect answer, the kids have to fiigrue out what the answer is and why its right.  
+I learn how to use my creativity to create the Screen Pen. I didn't wan ty product to be similar to other inventiosn or possibly replaced by AI. So I thought of making a pen that would force kids to use their braisn and get the answers onn their own, instead of ysing AI where they can just get the answers and d0on't learn anythign on how the answer is correct. My Screen Pen shows kids the errors they are making, but doesn't give them the corrrect answer, the kids have to fiigrue out what the answer is and why its right. Overall,by   
 
 
 
