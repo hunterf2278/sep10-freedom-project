@@ -7,7 +7,9 @@ My in-class presentation was nice but it was 12 minutes long, so next time I nee
 
 Now, the takeaway I have for my elevator pitch is that I was good at keeping my presentation to one minute, unlike my in-class presentation I had more time to explain my process, but I had to keep  it concise for the judges and I did that successfully. I also stay composed and didn't let my nerves of presnting in front of judges mess me up. Finally, I answered all the questions they asked clearly and without sutttering or hesitation, I was confident in my answers. 
 
+
 ## EDP
+We finished the project and presented in front of our classes and the judges at the Expo. We had a one minute limit for our expo presentations, where we showed off only the most important things about our project.  I presented my research for exsitng hardware, my website and it's bootstrap components, finally the product that we created with our tool. I am very happy that I finished my projetc and I'm glad I had the oppurtunity to show it off. 
 
 
 ## Skills
