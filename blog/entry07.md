@@ -7,9 +7,9 @@ My in-class presentation was nice but it was 12 minutes long, so next time I nee
 
 Now, the takeaway I have for my elevator pitch is that I was good at keeping my presentation to one minute, unlike my in-class presentation I had more time to explain my process, but I had to keep  it concise for the judges and I did that successfully. I also stay composed and didn't let my nerves of presnting in front of judges mess me up. Finally, I answered all the questions they asked clearly and without sutttering or hesitation, I was confident in my answers. 
 
-This is the main page of the website that I created:
+This is the main page of the website that I created and showed at the expo:
 <img width="1362" height="599" alt="image" src="https://github.com/user-attachments/assets/7c4e8b6e-23ee-4962-af0a-dccc78fd6100" />
-
+This image shows the two bootstrap components I used which was the navbar and the cards. 
 
 
 ## EDP
