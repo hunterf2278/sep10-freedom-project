@@ -19,8 +19,8 @@ Now, the product I made was the Screen Pe  which is an electric pen with an eras
 ## Implications
 ##### PROS
 * Students develop their problem solving skills
-* 
-* 
+* Students rely less on Chatgpt
+
 ##### CONS
 * It uses up energy, electricity. 
 * It would take a lot more time and manufacutring to develop this pen
