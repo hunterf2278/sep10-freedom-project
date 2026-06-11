@@ -12,9 +12,9 @@ Now, the product I made was the Screen Pe  which is an electric pen with an eras
 
 ## Links
 
-[Product]()
+[Product](https://hunterf2278.github.io/sep10-freedom-project/PartB.html)
 
-[Presentation]()
+[Presentation](presentation.md)
 
 ## Implications
 ##### PROS
